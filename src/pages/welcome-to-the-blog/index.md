@@ -14,13 +14,13 @@ Hello and Welcome to my short list of recent projects.
 
 [https://www.medwesteye.com/](https://www.medwesteye.com/) - Wordpress / Created the Logo Identity / Custom Theme / Client: Dr Michael Weber
 
-[https://davidchavedental.com/](https://davidchavedental.com/) Wordpress / Photography / Logo Design / Client: Dr. David Chave old friend of mine of more than 40 years.
+[https://davidchavedental.com/](https://davidchavedental.com/) Wordpress / Photography / Logo Design / __Client:__ Dr. David Chave old friend of mine of more than 40 years.
 
-[https://drenda.com](https://drenda.com) – Wordpress / Visual Baker / Jupiter Theme / Formidable Forms for the TV Schedule
+[https://drenda.com](https://drenda.com) – Wordpress / Visual Bakery / Jupiter Theme / Formidable Forms for the TV Schedule
 
-[https://180recover.com](https://180recover.com) – Wordpress theme / Donation system / Client: John Doyel founder
+[https://180recover.com](https://180recover.com) – Wordpress theme / Donation system / __Client:__ John Doyel founder of 180 ministries
 
-[https://faithlifenow.com/](https://faithlifenow.com/) Wordpress site for : Client: Faith Life Now Ministries
+[https://faithlifenow.com/](https://faithlifenow.com/) Wordpress site for : __Client:__ Faith Life Now Ministries
 
 ## Drupal / Magento / Custom Theme Development
 
