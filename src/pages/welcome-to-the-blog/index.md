@@ -4,13 +4,11 @@ date: "2020-04-22"
 featuredImage: './featured.png'
 ---
 
-Hello and Welcome to my short list of recent projects. 
+Hello and Welcome to my short list of recent projects.
 
 ## Recent Wordpress Websites
 
 [https://www.ibm.com/blogs](https://www.ibm.com/blogs) -I was responsible for all the infrastructure as well as Branding and custom themes for every blog site.
-
-[https://www.camundacon.com/live/](https://www.camundacon.com/live/) Wordpress / Hubspot Demand Gen / On24 Live Streaming
 
 [https://scalpprecision.com/](https://scalpprecision.com/) Wordpess Astra Theme / Custom Logo / Responsive
 
