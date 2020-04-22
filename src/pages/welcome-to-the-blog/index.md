@@ -1,7 +1,7 @@
 ---
-title: My Portfolio!
+title: Drews Portfolio!
 date: "2020-04-22"
-featuredImage: './featured.png'
+featuredImage: './ibm.png'
 ---
 
 Hello and Welcome to my short list of recent projects.
