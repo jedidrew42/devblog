@@ -1,62 +1,42 @@
 ---
 title: Welcome to the Blog!
-date: "2018-07-01"
-featuredImage: './featured.jpg'
+date: "2020-04-22"
+featuredImage: './featured.png'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+Drew Norman is a IT Leader & Web Developer with over 27 years of professional experience that includes creating and driving the process of web design and development, requirements gathering and analysis, project coordination, quality assurance, and documentation.
 
 <!-- end -->
+## Happy Earth Day!!
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
-
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
-
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
-
-### Pellentesque consectetur facilisis venenatis
-
-Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
-
-> Quisque tempor nulla turpis, ut placerat arcu lobortis nec. Aenean sed vehicula nisi. Nullam vitae placerat enim. Etiam hendrerit enim vel tempor fermentum. Morbi rutrum euismod ipsum a luctus.
-
-Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.
-
-### Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et
-
-Morbi posuere facilisis eros vel euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam malesuada dapibus dolor non cursus. Sed in turpis justo. Cras sed hendrerit nulla. Sed ornare, leo et suscipit tincidunt, justo diam sollicitudin risus, vitae vulputate nulla augue et lacus.
-
-1.  Morbi posuere facilisis
-2.  Pellentesque habitant morbi tristique
-3.  Etiam malesuada dapibus
-
-Ut vel ligula ante. Proin quis metus magna. Nulla nec dui vulputate, semper orci in, sagittis dolor. Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam.
-
-#### Sed ac orci a dolor venenatis vulputate
-
-Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-![Space](./space.jpg)
-
-Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus elementum dapibus nibh, eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
-
-##### Nulla nec dui vulputate, semper orci in, sagittis dolor
-
-Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
+He has the ability to set work priorities and recommend solutions as well as communicating project status, identifying issues, and driving resolutions. He has managed and maintained site presentation, interface design, information architecture, template development, and implementation. He has extensive experience with CMS systems like WordPress and Drupal. He also has experience with web analytics tools, HTML, CSS3, PHP, Javascript, All Adobe Creative Software.
 
 ```javascript
 $(document).ready(function() {
-    console.log('More jQuery, wow!')
+    console.log('Give me more baby yoda')
 })
 ```
 
-###### ras aliquet ipsum ut enim pellentesque, id varius quam placerat
+## Recent Wordpress Websites
 
-Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique
+[https://www.ibm.com/blogs](https://www.ibm.com/blogs) -I was responsible for all the infrastructure as well as Branding and custom themes for every blog site.
 
-Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum.
+[https://www.camundacon.com/live/](https://www.camundacon.com/live/) Wordpress / Hubspot Demand Gen / On24 Live Streaming
+
+[https://scalpprecision.com/](https://scalpprecision.com/) Wordpess Astra Theme / Custom Logo / Responsive
+
+[https://www.medwesteye.com/](https://www.medwesteye.com/) - Wordpress / Created the Logo Identity / Custom Theme / Client: Dr Michael Weber
+
+[https://davidchavedental.com/](https://davidchavedental.com/) Wordpress / Photography / Logo Design / Client: Dr. David Chave old friend of mine of more than 40 years.
+
+[https://drenda.com](https://drenda.com) – Wordpress / Visual Baker / Jupiter Theme / Formidable Forms for the TV Schedule
+
+[https://180recover.com](https://180recover.com) – Wordpress theme / Donation system / Client: John Doyel founder
+
+[https://faithlifenow.com/](https://faithlifenow.com/) Wordpress site for : Client: Faith Life Now Ministries
+
+## Drupal / Magento / Custom Theme Development
+
+[https://www.highlights.com](https://www.highlights.com) CSS / Jquery / Drupal Custom Modules
+
+[https://www.international.highlights.com](https://www.international.highlights.com) Custom Views / Module Development / Jquery
