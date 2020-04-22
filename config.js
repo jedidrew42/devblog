@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Dev Blog', // Required
+  title: 'Drew Norman Wordpress Developer / Artist', // Required
   author: 'Drew Norman', // Required
-  description: 'Full-stack Web Developer',
+  description: 'Front-End Web Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
